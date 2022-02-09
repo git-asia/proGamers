@@ -1,0 +1,1 @@
+To jest projekt wieńczący Kurs Tworzenia Stron WWW cz. 2 (MMC School).
